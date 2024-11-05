@@ -1,1 +1,0 @@
-chrome-extension://dbepggeogbaibhgnhhndojpepiihcmeb/content_scripts/vimium_frontend.js

@@ -1,1 +1,0 @@
-chrome-extension://dbepggeogbaibhgnhhndojpepiihcmeb/content_scripts/ui_component.js
