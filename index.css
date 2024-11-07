@@ -1,0 +1,13 @@
+  html {
+      font-size: 2vw; /* 根据视口宽度设置字体大小 */
+    }
+
+    /* 为页面内容设置缩放 */
+    body {
+      font-size: 1rem; /* 默认字体大小 */
+    }
+
+    .container {
+      width: 90vw; /* 容器宽度为视口宽度的 90% */
+      margin: 0 auto; /* 居中 */
+    }
